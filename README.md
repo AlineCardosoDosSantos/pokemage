@@ -7,13 +7,13 @@ Jogo de RPG desenvolvido na pseudolinguagem portugol através da ferramenta Port
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Capa" src="![1](https://user-images.githubusercontent.com/130462194/231169711-cb9970b5-ec5c-42fe-9a87-8415f7292c12.jpg)" width="100%">
+  <img alt="Capa" src="![1](https://user-images.githubusercontent.com/130462194/231172506-fa41455e-6356-4e39-bcfe-403a9c4ef6c4.jpg)" width="100%">
 </p>
 
 ## 🚀 Tecnologias
