@@ -28,6 +28,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Pokemage é um jogo de RPG desenvolvido na pseudolinguagem Portugol através da ferramenta Portugol Studio. A proposta foi desenvolvida como parte do projeto de Estágio em Desenvolvimento Web.
 
+-Os participantes do projeto foram:
+
+-- Aline
+-- Adrieli
+-- Arthur
+-- Eric
+-- Kauê
+-- Nicolas
+-- Vinicius
+
 ## 🔖 Documentação
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.canva.com/design/DAFfs3LPw_A/LmHxD3joG4S0uUFebyyFKg/edit?utm_content=DAFfs3LPw_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>).
