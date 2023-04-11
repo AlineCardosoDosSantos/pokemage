@@ -30,13 +30,13 @@ O Pokemage é um jogo de RPG desenvolvido na pseudolinguagem Portugol através d
 
 -Os participantes do projeto foram:
 
-- <a href="https://github.com/AlineCardosoDosSantos">Aline</a>
-- Adrieli
-- Arthur
+- <a href="https://github.com/AlineCardosoDosSantos">Aline Cardoso dos Santos</a>
+- <a href="https://github.com/Adrieli-Balbinot">Adrieli Balbinoti</a>
+- <a href="https://github.com/ArthurCristiano">Arthur Cristiano</a>
 - Eric
 - Kauê
-- Nicolas
-- Vinicius
+- <a href="https://github.com/NicolasVolpato">Nicolas Volpato</a>
+- <a href="https://github.com/viniciusLourenzoni">Vinicius Lourenzoni</a>
 
 ## 🔖 Documentação
 
