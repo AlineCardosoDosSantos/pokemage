@@ -33,8 +33,7 @@ Os desenvolvedores do projeto foram:
 - <a href="https://github.com/AlineCardosoDosSantos">Aline Cardoso dos Santos</a>
 - <a href="https://github.com/Adrieli-Balbinot">Adrieli Balbinoti</a>
 - <a href="https://github.com/ArthurCristiano">Arthur Cristiano</a>
-- Eric
-- Kauê
+- <a href="https://github.com/kkauems">Kauê de Souza</a>
 - <a href="https://github.com/NicolasVolpato">Nicolas Volpato</a>
 - <a href="https://github.com/viniciusLourenzoni">Vinicius Lourenzoni</a>
 
