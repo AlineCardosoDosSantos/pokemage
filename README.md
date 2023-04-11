@@ -30,13 +30,13 @@ O Pokemage é um jogo de RPG desenvolvido na pseudolinguagem Portugol através d
 
 -Os participantes do projeto foram:
 
--- Aline
--- Adrieli
--- Arthur
--- Eric
--- Kauê
--- Nicolas
--- Vinicius
+- Aline
+- Adrieli
+- Arthur
+- Eric
+- Kauê
+- Nicolas Volpato
+- Vinicius Lourenzoni
 
 ## 🔖 Documentação
 
