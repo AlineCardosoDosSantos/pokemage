@@ -1,0 +1,33 @@
+<h1 align="center"> PokeMage </h1>
+
+<p align="center">
+Jogo de RPG desenvolvido na pseudolinguagem portugol através da ferramenta Portugol Studio - Estágio em Desenvolvimento Web Sponte 2023
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Capa" src="![1](https://user-images.githubusercontent.com/130462194/231169711-cb9970b5-ec5c-42fe-9a87-8415f7292c12.jpg)" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Portugol
+- Portugol Studio
+- Git e Github
+
+## 💻 Projeto
+
+O Pokemage é um jogo de RPG desenvolvido na pseudolinguagem Portugol através da ferramenta Portugol Studio. A proposta foi desenvolvida como parte do projeto de Estágio em Desenvolvimento Web.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.canva.com/design/DAFfs3LPw_A/LmHxD3joG4S0uUFebyyFKg/edit?utm_content=DAFfs3LPw_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>).
