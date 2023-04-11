@@ -13,7 +13,7 @@ Jogo de RPG desenvolvido na pseudolinguagem portugol através da ferramenta Port
 <br>
 
 <p align="center">
-  <img alt="Capa" src="[1.jpg]" width="100%">
+  <img alt="Capa" src="1.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
