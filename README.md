@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Pokemage é um jogo de RPG desenvolvido na pseudolinguagem Portugol através da ferramenta Portugol Studio. A proposta foi desenvolvida como parte do projeto de Estágio em Desenvolvimento Web.
 
--Os participantes do projeto foram:
+Os desenvolvedores do projeto foram:
 
 - <a href="https://github.com/AlineCardosoDosSantos">Aline Cardoso dos Santos</a>
 - <a href="https://github.com/Adrieli-Balbinot">Adrieli Balbinoti</a>
@@ -37,6 +37,8 @@ O Pokemage é um jogo de RPG desenvolvido na pseudolinguagem Portugol através d
 - Kauê
 - <a href="https://github.com/NicolasVolpato">Nicolas Volpato</a>
 - <a href="https://github.com/viniciusLourenzoni">Vinicius Lourenzoni</a>
+
+O mentor para que o desenvolvimento fosse possível foi o professor <a href="https://github.com/pasqualiin">Guilherme Henrique Pasqualin Algeri</a>
 
 ## 🔖 Documentação
 
